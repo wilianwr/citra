@@ -5,3 +5,10 @@ PyAudio 0.2.12
 Vosk 0.3.44
 
 pyttsx3 2.90
+
+pywhatkit 5.4
+
+pip install wikipedia
+
+jokes 0.1.7
+pyjokes 0.6.0
